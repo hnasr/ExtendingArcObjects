@@ -1,0 +1,4 @@
+﻿------ Build started: Project: Bestaurants, Configuration: Debug Any CPU ------
+C:\IGeometry\Bestaurants\Bestaurants\Bestaurants\frmRestaurantsViewer.vb(75) : warning BC42105: Function 'getLayerByName' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+  Bestaurants -> C:\IGeometry\Bestaurants\Binary\Bestaurants.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
